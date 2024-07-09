@@ -1,0 +1,9 @@
+Model,Accuracy (c),False Positive ratio (f),All Detected batches,Correctly Detected batches,Wrongly Detected batched,Run #
+MaxKur,100.0,0.0,"[29, 30]","[29, 30]",[],2
+minKur,0.0,7.14,"[17, 21]",[],"[17, 21]",2
+MaxSkew,100.0,3.57,"[19, 29, 30]","[29, 30]",[19],2
+$T^2$ Hotelling,50.0,3.57,"[21, 30]",[30],[21],2
+PCA1,100.0,3.57,"[18, 29, 30]","[29, 30]",[18],2
+PCA2,50.0,0.0,[30],[30],[],2
+ICA1,0.0,3.57,[21],[],[21],2
+ICA2,50.0,7.14,"[18, 23, 30]",[30],"[18, 23]",2
